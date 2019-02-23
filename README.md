@@ -9,3 +9,6 @@ Parameter *beta* is required for running trainning. For our paper's result, you 
 
 ## testing
 According to the *beta* passed in training, run **./Test_PTransE-ag beta** for evaluating.
+
+## updating（2019/2/23)
+execute **./Train_PTransE-pos 1**
